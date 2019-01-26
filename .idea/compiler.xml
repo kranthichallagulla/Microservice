@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="Muzix" />
+        <module name="Muzix (1) (com.stackroute.muzix)" />
+        <module name="Muzix (2) (com.stackroute)" />
+        <module name="Zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="MicroFinal" target="1.8" />
+      <module name="Muzix" target="1.8" />
+      <module name="Muzix (1) (com.stackroute.muzix)" target="1.8" />
+      <module name="Muzix (2) (com.stackroute)" target="1.8" />
+      <module name="Zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Muzix" options="-parameters" />
+      <module name="Muzix (1) (com.stackroute.muzix)" options="-parameters" />
+      <module name="Muzix (2) (com.stackroute)" options="-parameters" />
+      <module name="Zuul" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+    </option>
+  </component>
+</project>

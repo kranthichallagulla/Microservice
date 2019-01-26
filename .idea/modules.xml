@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicroFinal.iml" filepath="$PROJECT_DIR$/.idea/MicroFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrackService/Muzix.iml" filepath="$PROJECT_DIR$/TrackService/Muzix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userservice/Muzix (1) (com.stackroute.muzix).iml" filepath="$PROJECT_DIR$/userservice/Muzix (1) (com.stackroute.muzix).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zuul/Zuul.iml" filepath="$PROJECT_DIR$/Zuul/Zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+    </modules>
+  </component>
+</project>
